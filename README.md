@@ -1,58 +1,50 @@
-<!-- Perfil profissional | Marcos Miguel -->
+<!-- GitHub Profile · Marcos Miguel -->
 
-<p align="center">
-  <img src="./assets/profile-header.svg" alt="Marcos Miguel — Full-Stack Developer" width="100%" />
-</p>
+# Marcos Miguel
 
-<p align="center">
-  <strong>Construindo aplicações web, integrações e produtos digitais com foco em qualidade e manutenção.</strong>
-</p>
+**Full-Stack Developer** · Aplicações web, APIs, automações e infraestrutura.
 
-<p align="center">
-  <a href="#sobre">Sobre</a> ·
-  <a href="#tecnologias">Tecnologias</a> ·
-  <a href="#projetos">Projetos</a>
-</p>
+Desenvolvo soluções digitais de ponta a ponta, com atenção à experiência de uso, à organização técnica e à evolução dos sistemas.
+
+[**E-mail**](mailto:marcosmrm08@gmail.com) · [**LinkedIn**](https://www.linkedin.com/in/marcos-miguel-rodrigues-miranda-8937a3299/) · [**GitHub**](https://github.com/MarcosDevandDesing)
 
 ---
 
-<a id="sobre"></a>
 ## Sobre
 
-Sou **desenvolvedor Full-Stack** com atuação em sistemas web, produtos digitais e infraestrutura. Trabalho com planejamento técnico, implementação de interfaces e APIs, modelagem de dados, integrações e implantação.
+Atuo no planejamento, desenvolvimento e manutenção de sistemas web, desde a interface e as regras de negócio até integrações, bancos de dados e implantação.
 
-**Principais frentes de trabalho:**
+- **Aplicações web:** sistemas de gestão, dashboards, painéis administrativos e produtos digitais.
+- **Integrações e automações:** APIs REST, autenticação, webhooks, bots e processos automatizados.
+- **Qualidade e infraestrutura:** testes, versionamento, desempenho, CI/CD e serviços em nuvem.
+- **Desktop e FiveM:** Electron, Lua, painéis e scripts de ajuste de handling de veículos.
 
-- **Aplicações sob medida:** sistemas de gestão, dashboards e painéis administrativos.
-- **APIs e automações:** autenticação, integrações, webhooks e processamento de eventos.
-- **Qualidade e operação:** testes, desempenho, controle de versões e implantação.
-- **Desktop e FiveM:** conhecimentos em Electron e Lua, incluindo scripts para ajustes de handling de veículos e painéis.
-
-<a id="tecnologias"></a>
 ## Tecnologias
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,py,postgres,sqlite,docker,cloudflare,vercel,git,github,figma,electron,lua&theme=dark&perline=6" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS, Node.js, Python, PostgreSQL, SQLite, Docker, Cloudflare, Vercel, Git, GitHub, Figma, Electron e Lua" width="330" />
+**Frontend e aplicações desktop**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,electron&amp;theme=dark" alt="TypeScript, JavaScript, React, Next.js, Tailwind CSS e Electron" />
 </p>
 
-**Frontend:** React, Next.js, TypeScript e Tailwind CSS.  
-**Backend e dados:** Node.js, APIs REST, Python, PostgreSQL, SQLite e Cloudflare D1.  
-**Infraestrutura:** Linux, Git, Docker, Cloudflare Workers, Vercel e CI/CD.  
-**Desktop e jogos:** Electron e Lua (scripts e ajustes para FiveM).
+**Backend e bancos de dados**
 
-<a id="projetos"></a>
-## Projetos
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,py,postgres,sqlite,firebase,lua&amp;theme=dark" alt="Node.js, Python, PostgreSQL, SQLite, Firebase e Lua" />
+</p>
 
-**[São Paulo Capital RP](https://www.saopaulocapitalrp.com.br/)**  
-Site público de uma comunidade de roleplay, com páginas de apresentação e informações para jogadores.
+**Infraestrutura e ferramentas**
 
-**Stream Monitor**  
-Sistema de monitoramento de transmissões ao vivo, com integrações entre plataformas, automações e dashboards operacionais. *Em evolução; código privado.*
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,git,github,figma&amp;theme=dark" alt="Docker, Cloudflare, Vercel, Git, GitHub e Figma" />
+</p>
+
+Além dessas tecnologias, tenho experiência com **Cloudflare Workers, D1, Linux, implantação web e integrações Firebase**.
 
 ---
 
-<p align="center">
-  <strong>Aberto a oportunidades de desenvolvimento freelance e colaboração técnica.</strong>
-  <br />
-  <sub>Web applications · APIs · Automation · Infrastructure</sub>
-</p>
+### Contato
+
+Disponível para conversar sobre **projetos freelance, desenvolvimento de sistemas e colaborações técnicas**.
+
+**[Enviar e-mail](mailto:marcosmrm08@gmail.com)** · **[Conectar no LinkedIn](https://www.linkedin.com/in/marcos-miguel-rodrigues-miranda-8937a3299/)**
