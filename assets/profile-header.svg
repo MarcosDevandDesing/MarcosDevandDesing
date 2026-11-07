@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220" role="img" aria-labelledby="title desc">
+  <title id="title">Marcos Miguel — Full-Stack Developer</title>
+  <desc id="desc">Cabeçalho do perfil: desenvolvimento de software, produtos digitais e infraestrutura.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B1220"/>
+      <stop offset="60%" stop-color="#111F35"/>
+      <stop offset="100%" stop-color="#0C1829"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#36B4F6"/>
+      <stop offset="100%" stop-color="#5C82FF"/>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="959" height="219" rx="14" fill="url(#background)" stroke="#29425B"/>
+  <rect x="0" y="0" width="7" height="220" rx="3" fill="url(#accent)"/>
+  <g fill="none" stroke="#263C55" stroke-width="1.5" opacity="0.65">
+    <path d="M650 22H920L948 50M725 73H855L893 110H950M610 180H830L867 143H949M720 202H907"/>
+    <path d="M780 25V74M820 144V183M910 73V115"/>
+    <circle cx="780" cy="74" r="4" fill="#60A5FA" stroke="none"/>
+    <circle cx="820" cy="183" r="4" fill="#60A5FA" stroke="none"/>
+    <circle cx="910" cy="115" r="4" fill="#60A5FA" stroke="none"/>
+  </g>
+  <text x="54" y="51" fill="#80CFFA" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="2.6">SOFTWARE ENGINEERING</text>
+  <text x="51" y="125" fill="#F4F8FF" font-family="Arial, Helvetica, sans-serif" font-size="61" font-weight="700">Marcos Miguel</text>
+  <rect x="54" y="150" width="58" height="4" rx="2" fill="url(#accent)"/>
+  <text x="54" y="187" fill="#D2E1F5" font-family="Arial, Helvetica, sans-serif" font-size="21">Full-Stack Developer  /  Web, APIs &amp; Infrastructure</text>
+</svg>
